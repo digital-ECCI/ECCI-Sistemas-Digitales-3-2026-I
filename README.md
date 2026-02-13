@@ -45,7 +45,7 @@ Hola mundo
     <td>2-3</td>
     <td>Directorio telefónico</td>
     <td><a href="/labs/01_lab01/README.md">lab01</a></td>
-    <td><a href= "https://classroom.github.com/a/XDf8jhTR">Link</a></td>
+    <td><a href= "https://classroom.github.com/a/cckesXGu">Link</a></td>
     <td>20 Febrero</td>
   </tr>
 </table>
