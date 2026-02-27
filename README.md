@@ -46,7 +46,14 @@ Hola mundo
     <td>Directorio telefónico</td>
     <td><a href="/labs/01_lab01/README.md">lab01</a></td>
     <td><a href= "https://classroom.github.com/a/cckesXGu">Link</a></td>
-    <td>20 Febrero</td>
+    <td>27 Febrero</td>
+  </tr>
+    <tr>
+    <td>3-4</td>
+    <td>Introducción a Raspberry Pi Zero W y 2 W</td>
+    <td><a href="/labs/02_lab02/REAME.md">lab02</a></td>
+    <td>-</a></td>
+    <td>06 Marzo</td>
   </tr>
 </table>
 
