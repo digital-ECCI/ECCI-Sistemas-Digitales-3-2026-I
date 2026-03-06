@@ -55,9 +55,13 @@ Hola mundo
     <td>-</a></td>
     <td>06 Marzo</td>
   </tr>
+  </tr>
+    <tr>
+    <td>5</td>
+    <td>Visualización interactiva de datos</td>
+    <td><a href="/labs/03_lab03/README.md">lab03</a></td>
+    <td><a href=https://classroom.github.com/a/xB5owuT7>lab03</a></td>
+    <td>13 Marzo</td>
+  </tr>  
 </table>
-
-
-
-
 
