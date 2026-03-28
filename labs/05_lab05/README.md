@@ -205,7 +205,7 @@ A continuación se enlistan scripts para configurar los dispositivos clientes de
     ```
     pip3 install paho-mqtt
     ```
-2. Ejecutar el [script](/ECCI-Sistemas-Digitales-3-2025-I-/laboratorios/5_lab05/mqtt_client_rpi.py).
+2. Ejecutar el [script](/labs/05_lab05/mqtt_client_rpi.py).
 
 
 #### Microcontrolador Raspberry Pi Pico W o ESP32:
