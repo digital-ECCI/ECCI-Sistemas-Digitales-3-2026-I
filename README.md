@@ -67,14 +67,14 @@ Hola mundo
     <td>6</td>
     <td>Node-RED </td>
     <td><a href="/labs/04_lab04/README.md">lab04</a></td>
-    <td><a href=>lab04</a></td>
+    <td><a href="https://classroom.github.com/a/0V8i2zWk">lab04</a></td>
     <td>27 Marzo</td>
   </tr>
   <tr>
     <td>7</td>
     <td>MQTT + Raspberry + ESP32 </td>
     <td><a href="/labs/05_lab05/README.md">lab05</a></td>
-    <td><a href=>lab05</a></td>
+    <td><a href="https://classroom.github.com/a/SdTKxMvv">lab05</a></td>
     <td>10 Abril</td>
   </tr>  
 </table>
