@@ -71,11 +71,18 @@ Hola mundo
     <td>17 Abril</td>
   </tr>
   <tr>
-    <td>7</td>
+    <td>7-8</td>
     <td>MQTT + Raspberry + ESP32 </td>
     <td><a href="/labs/05_lab05/README.md">lab05</a></td>
     <td><a href="https://classroom.github.com/a/SdTKxMvv">Link</a></td>
     <td>24 Abril</td>
+  </tr>  
+    <tr>
+    <td>9-10</td>
+    <td>Servidor MQTT en Raspberry Pi con IP pública (ngrok) y cliente ESP32 con sensor LM75 </td>
+    <td><a href="/labs/06_lab06/README.md">lab06</a></td>
+    <td><a href="">Link</a></td>
+    <td>1 Mayo</td>
   </tr>  
 </table>
 
