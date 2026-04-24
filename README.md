@@ -77,12 +77,19 @@ Hola mundo
     <td><a href="https://classroom.github.com/a/SdTKxMvv">Link</a></td>
     <td>24 Abril</td>
   </tr>  
-    <tr>
+  <tr>
     <td>9-10</td>
     <td>Servidor MQTT en Raspberry Pi con IP pública (ngrok) y cliente ESP32 con sensor LM75 </td>
     <td><a href="/labs/06_lab06/README.md">lab06</a></td>
     <td><a href="">Link</a></td>
     <td>1 Mayo</td>
+  <tr>
+    <td>11-12</td>
+    <td>Proyecto final - Primera entrega </td>
+    <td><a href="/labs/07_lab07/README.md">1er Entrega</a></td>
+    <td><a href="">Link</a></td>
+    <td> 8 Mayo</td>
+  </tr>  
   </tr>  
 </table>
 
