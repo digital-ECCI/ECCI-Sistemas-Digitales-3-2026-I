@@ -81,7 +81,7 @@ Hola mundo
     <td>9-10</td>
     <td>Servidor MQTT en Raspberry Pi con IP pública (ngrok) y cliente ESP32 con sensor LM75 </td>
     <td><a href="/labs/06_lab06/README.md">lab06</a></td>
-    <td><a href="">Link</a></td>
+    <td><a href="https://classroom.github.com/a/m5ST-0MP">Link</a></td>
     <td>1 Mayo</td>
   <tr>
     <td>11-12</td>
