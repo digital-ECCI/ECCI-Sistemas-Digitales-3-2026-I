@@ -87,8 +87,15 @@ Hola mundo
     <td>11-12</td>
     <td>Proyecto final - Primera entrega </td>
     <td><a href="/labs/07_lab07/README.md">1er Entrega</a></td>
-    <td><a href="">Link</a></td>
-    <td> 8 Mayo</td>
+    <td><a href="https://classroom.github.com/a/P_Y0BNPP">Link</a></td>
+    <td> 22 Mayo</td>
+  </tr>  
+  <tr>
+    <td>13 - 16</td>
+    <td>Proyecto final - Entrega Final </td>
+    <td><a href="/labs/08_lab08/README.md">Entrega final</a></td>
+    <td><a href="https://classroom.github.com/a/R6o1yzj9">Link</a></td>
+    <td> 29 Mayo</td>
   </tr>  
   </tr>  
 </table>
